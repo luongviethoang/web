@@ -1,0 +1,27 @@
+header,section,aside,nav,
+article,figure,figcaption{
+    display: block;
+}
+body{
+    color: rgb(0, 0, 0);
+    background-size: cover;
+    background-repeat: no-repeat;
+    webkit-background-size: cover;
+    moz-background-size: cover;
+    o-background-size: cover;
+    background-image: url("../img/ff67e4ead5d0414e1c5409b8db1b574e (1).jpg");
+    font-family: Georgia, Serif;
+    line-height: normal;
+    margin: auto;
+}
+.wrapper
+{
+
+    width: 940px;
+    margin: 20px auto 20px auto;
+
+
+}
+header {
+    height: 160px;
+}
